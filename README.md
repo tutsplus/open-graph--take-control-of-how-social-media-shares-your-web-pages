@@ -5,4 +5,4 @@ No two websites’ markup are created equal. As such, it can be difficult for so
 
 That is where the Open Graph Protocol (OGP) comes into play; an initiative developed by Facebook that allows it to recognize web content easily and display it nicely within their platform. 
 
-[View the demo](http://tutsplus.github.io/open-graph-protocol)
+[View the demo](http://tutsplus.github.io/open-graph--take-control-of-how-social-media-shares-your-web-pages)
