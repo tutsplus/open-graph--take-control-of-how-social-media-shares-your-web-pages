@@ -1,4 +1,4 @@
-### Envato Tuts+ Tutorial: 
+### Envato Tuts+ Tutorial: Open Graph: Take Control of How Social Media Shares Your Web Pages
 #### Instructor: [Louie Rootfield](https://tutsplus.com/authors/lourfield)
 
 No two websites’ markup are created equal. As such, it can be difficult for social media platforms like Facebook to find the correct piece of information within the content to be displayed when the page is shared on the News Feed.
